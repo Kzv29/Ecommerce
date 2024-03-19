@@ -1,0 +1,41 @@
+
+
+.btn-go-back {
+    margin-bottom: 20px;
+  }
+  
+  .product-image {
+    width: 100%;
+  }
+  
+  .product-details {
+    margin-top: 20px;
+  }
+  
+  .product-name {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .product-price {
+    font-weight: bold;
+  }
+  
+  .product-description {
+    margin-top: 20px;
+  }
+  
+  .quantity-select {
+    width: 70px;
+  }
+  
+  .status {
+    font-weight: bold;
+  }
+  
+  .add-to-cart-btn {
+    width: 100%;
+  }
+  
+  
+  
